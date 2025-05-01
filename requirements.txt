@@ -1,0 +1,6 @@
+apscheduler
+pydantic
+pyrogram
+python-dotenv
+pytz
+tgcrypto
